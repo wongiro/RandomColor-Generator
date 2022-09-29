@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #040929;
+}
+div{
+  background-color: #261f2e;
+  border: 2px groove black;
+  border-radius: 15px;
+  padding: 10px;
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  margin-top: 25%;
+}
+button{
+  display: flex;
+  justify-content: center;
+  border: 3px solid;
+  border-radius: 60px;
+  margin: auto;
+  padding: 10px;
+  margin-top: 25%;
+  cursor: pointer;
+}
